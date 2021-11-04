@@ -19,6 +19,12 @@ jobs:
           username: ${{ secrets.DOCKER_HUB_USERNAME }}
           password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
           
+      - name: build HTML file
+        run: |-
+          npm install -g marked
+          mkdir -p dist
+          marked -i policy.md -o dist/index.html
+          
       - name: Inject slug/short variables
         uses: rlespinasse/github-slug-action@c559dac9da053e1196470d6fe7b04d8ec1b0b617 # v3.x
       
