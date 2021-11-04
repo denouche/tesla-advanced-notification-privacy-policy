@@ -21,7 +21,7 @@ jobs:
           
       - name: build HTML file
         run: |-
-          sudo npm install -g marked
+          sudo npm install -g marked@v3.0.8
           mkdir -p dist
           marked -i policy.md -o dist/index.html
           
