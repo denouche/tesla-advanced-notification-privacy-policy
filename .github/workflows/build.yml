@@ -35,4 +35,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/$GITHUB_REPOSITORY_NAME_PART:$GITHUB_EVENT_REF_SLUG_URL
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/${{ env.GITHUB_REPOSITORY_NAME_PART}}:${{ env.GITHUB_EVENT_REF_SLUG_URL}}
