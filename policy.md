@@ -22,11 +22,7 @@ If you contact our support, we will collect and store the personal data transmit
 
 **Firebase Analytics**
 
-We collect pseudonymised usage statistics concerning your use of our app using Google Firebase, a service of Google LLC (“Google”). Therefore google collects information about your use of the app  (including your IP address). This data will be transferred and saved to a Google server in the USA. Google will use this information for the purpose of evaluating your use of the App, compiling reports on the app's activities within the App for us, and providing other services relating to the use of the App and the internet. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
-
-For more information about how Google uses your information, please see Google's Privacy Policy:
-
-https://www.google.com/policies/privacy
+We collect pseudonymised usage statistics concerning your use of our app using Google Firebase, a service of Google LLC ("Google"). Therefore google collects information about your use of the app  (including your IP address). This data will be transferred and saved to a Google server in the USA. Google will use this information for the purpose of evaluating your use of the App, compiling reports on the app's activities within the App for us, and providing other services relating to the use of the App and the internet. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
 
 The data stored at Firebase Analytics is stored for a period of 14 months. After this period, Firebase Analytics only stores aggregated statistics.
 
@@ -38,6 +34,12 @@ We use Firebase Crashlytics, a service of Google LLC. Crashlytics transmits cert
 
 Crashlytics is used based on our legitimate interest in recognizing errors in our app, examining them and remedying them, and to thus be able to offer our app in its contractually stipulated form, and the fact that your legitimate interests are not overriding.
 
+**Third party services privacy policies**
+
+Link to privacy policy of third party service providers used by the app
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Contact**
 
