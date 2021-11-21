@@ -1,65 +1,44 @@
-**Privacy Policy**
+**PRIVACY POLICY**
+ 
+Welcome to Tesla Advanced Notification!
 
-LEVEUGLE CONSULTING built the Tesla Advanced Notification app as a Commercial app. This SERVICE is provided by LEVEUGLE CONSULTING and is intended for use as is.
+Tesla Advanced Notification is a Commercial app.
+<!--
+for Tesla tokens:
+In some cases we show ads within the app. The appearance of ads can be switched of using an in-app-purchase if applicable.
+-->
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+In this Privacy Policy, we inform you about what personal data we collect and for which purposes your data is used.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tesla Advanced Notification unless otherwise defined in this Privacy Policy.
+**What kind of data we are gathering**
 
-**Information Collection and Use**
+When using Tesla Advanced Notification we do not record any personal data besides the named services Firebase Analytics, Firebase Crashlytics
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app does use third party services that may collect information used to identify you.
+**Support requests**
 
-Link to privacy policy of third party service providers used by the app
+If you contact our support, we will collect and store the personal data transmitted by you for the purpose of processing your request. You are not obligated to provide personal data in your request, and you may contact us with a pseudonym at any time.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+**Firebase Analytics**
 
-**Log Data**
+We collect pseudonymised usage statistics concerning your use of our app using Google Firebase, a service of Google LLC (“Google”). Therefore google collects information about your use of the app  (including your IP address). This data will be transferred and saved to a Google server in the USA. Google will use this information for the purpose of evaluating your use of the App, compiling reports on the app's activities within the App for us, and providing other services relating to the use of the App and the internet. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+For more information about how Google uses your information, please see Google's Privacy Policy:
 
-**Cookies**
+https://www.google.com/policies/privacy
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+The data stored at Firebase Analytics is stored for a period of 14 months. After this period, Firebase Analytics only stores aggregated statistics.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Firebase Analytics is used on the basis of our legitimate interest in a needs-based design, statistical evaluation and efficient advertising of our app and the fact that your legitimate interests do not predominate.
 
-**Service Providers**
+**Firebase Crashlytics**
 
-We may employ third-party companies and individuals due to the following reasons:
+We use Firebase Crashlytics, a service of Google LLC. Crashlytics transmits certain technical information to us concerning your device and your app installation if your app crashes. We use this data only in order to determine the reason for the crash and to remove errors in our app. This data is usually not personal data.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Crashlytics is used based on our legitimate interest in recognizing errors in our app, examining them and remedying them, and to thus be able to offer our app in its contractually stipulated form, and the fact that your legitimate interests are not overriding.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-**Security**
-
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
-
-**Changes to This Privacy Policy**
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2021-11-04
-
-**Contact Us**
+**Contact**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at teslaadvancednotification@leveugle.net.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
